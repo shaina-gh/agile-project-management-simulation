@@ -43,6 +43,13 @@ The project was completed in two sprints. The key outcome from the sprint cycle 
 * **Goal:** To deliver a functional user sign-up and login system.
 * **Outcome:** All tasks were completed successfully, and the sprint goal was met. The burndown chart below illustrates the team's progress.
 
-![Sprint 1 Burndown Chart](YOUR_SCREENSHOT_IMAGE_LINK_HERE)
+![Sprint 1 Burndown Chart]
+
+
+<img width="1183" height="512" alt="Screenshot 2025-08-31 at 11 21 40 AM" src="https://github.com/user-attachments/assets/35b61d5d-73a8-4ff8-bb9c-635454726beb" />
+
+<img width="1176" height="505" alt="Screenshot 2025-08-31 at 11 21 53 AM" src="https://github.com/user-attachments/assets/cd56c15d-aaf1-48e7-a888-6481da295a53" />
+
+<img width="1178" height="503" alt="Screenshot 2025-08-31 at 11 22 04 AM" src="https://github.com/user-attachments/assets/893575c1-ea34-4f80-ba34-a7cf68f0d067" />
 
 ---
